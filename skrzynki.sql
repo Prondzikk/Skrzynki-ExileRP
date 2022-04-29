@@ -1,0 +1,30 @@
+--
+-- Zrzut danych tabeli `items`
+--
+
+INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES
+('bon19', 'Bon [Zmiana rejestracji pojazdu]', 10, 0, 1),
+('bon20', 'Bon [Zniżka 50% na tuning pojazdu]', 10, 0, 1),
+('bon21', 'Bon [Auto z brokera do 3,5mln]', 10, 0, 1),
+('bon22', 'Bon [Zniżka 10% na tuning pojazdu]', 10, 0, 1),
+('bon23', 'Bon [Auto z brokera do 7mln]', 10, 0, 1),
+('bon24', 'Bon [Zniżka 20% do brokera]', 10, 0, 1),
+('bon25', 'Bon [Darmowy tuning]', 10, 0, 1),
+('bon26', 'Bon [Auto z brokera do 11mln]', 10, 0, 1),
+('bon27', 'Bon [Zniżka 35% do brokera]', 10, 0, 1),
+('bon28', 'Bon [Skrócenie bana o 24H]', 10, 0, 1),
+('bon29', 'Bon [Auto Limitowane]', 10, 0, 1),
+('bon30', 'Bon [Dom Limitowany]', 10, 0, 1),
+('bon31', 'Bon [Smigłowiec lub Samolot]', 10, 0, 1),
+('bon32', 'Bon [Skrócenie bana o 72H]', 10, 0, 1),
+('bon33', 'Bon [Nissan Titan]', 10, 0, 1),
+('bon34', 'Bon [Zniżka 25% na tuning pojazdu]', 10, 0, 1),
+('bon35', 'Bon [Ubranie z wybraną przez ciebie grafiką]', 10, 0, 1),
+('bon36', 'Bon [Limitowane malowanie na dowolne auto]', 10, 0, 1),
+('bon37', 'Bon [Dowolne auto z car dealera]', 10, 0, 1),
+('bon38', 'Bon [BMW M2 STINKY EDITION]', 10, 0, 1),
+('bon39', 'Bon [CHALLENGER KIM3N EDITION]', 10, 0, 1),
+('bon40', 'Bon [Dowolna limitka z limited dzwiekiem]', 10, 0, 1),
+('bon41', 'Bon [Pakiet limitek 2+1]', 10, 0, 1),
+('skrzynka', 'skrzynka', 10, 0, 1),
+('skrzynkapistolet', 'Skrzynka [Pistolet]', 5, 0, 1),
